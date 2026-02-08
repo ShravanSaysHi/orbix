@@ -58,7 +58,7 @@ It is designed as a **privacy-first alternative to cloud AI copilots**, bringing
 ## 🚀 Installation (Local)
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/ShravanSaysHi/orbix>
 cd orbix
 ./install.sh
 ./run.sh
